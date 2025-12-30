@@ -77856,7 +77856,7 @@ case 2:p=o.createObjectURL(n.aGY([m.kx(l.gav(b))],"application/pdf"))
 p.toString
 q=document.createElement("a")
 q.href=p
-q.download="Ahmed_CV.pdf"
+q.download="Ahmed_Khattab_CV.pdf"
 q.click();(self.URL||self.webkitURL).revokeObjectURL(p)
 return A.K(null,r)}})
 return A.L($async$wI,r)}}
